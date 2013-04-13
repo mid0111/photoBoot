@@ -1,6 +1,6 @@
 {
   "name": "application-name",
-  "subdomain": "photoBoot.mid0111.com",
+  "subdomain": "photoBoot-mid0111",
   "version": "0.0.1",
   "private": true,
   "scripts": {
