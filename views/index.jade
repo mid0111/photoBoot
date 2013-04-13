@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  
+  input#files(type="file", name="files[]", multiple)
+  
+  output#list()
+  
+  script(src="/javascripts/upload.js")
