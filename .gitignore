@@ -1,2 +1,6 @@
-.git*
+*~
+\#*
+.\#*
+.*.swp
+
 node_modules
